@@ -1,0 +1,8 @@
+{
+  "usuarios": [{ "id": 0, "nombreUsuario": "Andy", "claveUsuario": "12345" }],
+  "tiquetes": [{
+    "id":0,
+    "tipoTiquete": "ABC"
+}
+]
+}
