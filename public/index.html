@@ -3,14 +3,25 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Login</title>
+    <title>sign in</title>
+    <link rel="stylesheet" href="estilos/index.css" />
   </head>
   <body>
-    <div>
-      <input type="text" />
-      <input type="password" />
-      <button>INICIAR SESIÓN</button>
+    <div class="contenedor">
+      <h1>Iniciar sesión</h1>
+      <label class="letras">Usuario:</label>
+      <input id="Usuario" type="text" />
+      <label class="contraseña">Contraseña:</label>
+      <input id="Contrasenia" type="password" />
+
+      <button id="btnRegistro" class="Boton" type="submit">
+        Iniciar sesión
+      </button>
+
+      <a href="./pags/registro.html">Registrarte</a>
     </div>
+
+
   </body>
   <script type="module" src="index.js"></script>
 </html>

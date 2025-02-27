@@ -1,8 +1,340 @@
 {
-  "usuarios": [{ "id": 0, "nombreUsuario": "Andy", "claveUsuario": "12345" }],
-  "tiquetes": [{
-    "id":0,
-    "tipoTiquete": "ABC"
-}
-]
+  "usuarios": [
+    {
+      "id": "29ca",
+      "Usuario": "Paquita",
+      "Contrasenia": "1234",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "c399",
+      "Usuario": "",
+      "Contrasenia": "",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "c2b4",
+      "Usuario": "",
+      "Contrasenia": "",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "3a5c",
+      "Usuario": "asdas",
+      "Contrasenia": "asdasd",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "9e75",
+      "Usuario": "",
+      "Contrasenia": "",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "d381",
+      "Usuario": "",
+      "Contrasenia": "",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "366e",
+      "Usuario": "",
+      "Contrasenia": "",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "69fd",
+      "Usuario": "",
+      "Contrasenia": "",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "bae8",
+      "Usuario": "",
+      "Contrasenia": "",
+      "tipo": "Estudiante"
+    }
+  ],
+  "consultas": [
+    {
+      "id": "0",
+      "consultaUsuario": "ABC",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "11:48",
+      "diaConsulta": "27/2/2025"
+    },
+    {
+      "id": "b174",
+      "consultaUsuario": "Cómo encontrar las esferas del dragón 1 link mega",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "11:59",
+      "diaConsulta": "27/2/2025"
+    },
+    {
+      "id": "24ed",
+      "consultaUsuario": "Cómo encontrar las esferas del dragón 1 link mega",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "11:59",
+      "diaConsulta": "27/1/2025"
+    },
+    {
+      "id": "fa41",
+      "consultaUsuario": "Cómo encontrar las esferas del dragón 1 link mega",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "11:59",
+      "diaConsulta": "27/1/2025"
+    },
+    {
+      "id": "430d",
+      "consultaUsuario": "Cómo encontrar las esferas del dragón 1 link mega",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "11:59",
+      "diaConsulta": "27/1/2025"
+    },
+    {
+      "id": "ef82",
+      "consultaUsuario": "Cómo encontrar las esferas del dragón 1 link mega",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "11:59",
+      "diaConsulta": "27/1/2025"
+    },
+    {
+      "id": "1f4e",
+      "consultaUsuario": "Cómo encontrar las esferas del dragón 1 link mega",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "11:59",
+      "diaConsulta": "27/1/2025"
+    },
+    {
+      "id": "e174",
+      "consultaUsuario": "eee",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:39",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "eadc",
+      "consultaUsuario": "ss",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:42",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "f899",
+      "consultaUsuario": "qqq",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:42",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "3d85",
+      "consultaUsuario": "qq",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "92a0",
+      "consultaUsuario": "qq",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "80d5",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "2828",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "e796",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "04fd",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "9062",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "ed59",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "7da7",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "b358",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "f4ba",
+      "consultaUsuario": "y",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:43",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "d19e",
+      "consultaUsuario": "mostrar\n\n",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:45",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "395f",
+      "consultaUsuario": "mostrar penes\n\n",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:45",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "1199",
+      "consultaUsuario": "aa",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:45",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "8acf",
+      "consultaUsuario": "aaaaaa",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:45",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "691d",
+      "consultaUsuario": "asasasa",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:47",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "4427",
+      "consultaUsuario": "paqui6ata ifmfj nknfn",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:47",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "d243",
+      "consultaUsuario": "paqui6ata ifmfj nknfn",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:47",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "2d0a",
+      "consultaUsuario": "paqui6ata ifmfj nknfn",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:47",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "8be1",
+      "consultaUsuario": "paqui6ata ifmfj nknfn",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:47",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "9870",
+      "consultaUsuario": "sd",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:55",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "4287",
+      "consultaUsuario": "sd",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:55",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "17a4",
+      "consultaUsuario": "sd",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:55",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "193f",
+      "consultaUsuario": "sd",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "13:59",
+      "diaConsulta": "27/11/2025"
+    },
+    {
+      "id": "155f",
+      "consultaUsuario": "ashashas",
+      "estado": false,
+      "nombreUsuario": "Paquita",
+      "horaConsulta": "15:14",
+      "diaConsulta": "27/11/2025"
+    }
+  ]
 }

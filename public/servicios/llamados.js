@@ -1,3 +1,8 @@
+/*
+    Método post, se encarga de enviar información a la API
+    se le pasan dos parámetros para poder reutilizar la función en más
+    de una ejecución de código    
+*/
 async function postData(obj, endpoint) {
   try {
     const peticion = await fetch(`http://localhost:1212/${endpoint}/`, {
@@ -14,3 +19,18 @@ async function postData(obj, endpoint) {
     console.error(error);
   }
 }
+/*
+ El método get, trae información de la API y del endpoint que le demos
+ 
+*/
+
+async function getData(endpoint) {
+  try {
+    const peticion = await fetch(`http://localhost:1212/${endpoint}/`);
+    const datos = peticion.json();
+    return datos;
+  } catch (error) {
+    console.error(error);
+  }
+}
+export { getData, postData };
